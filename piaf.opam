@@ -28,6 +28,8 @@ depends: [
   "uri"
   "magic-mime"
   "gluten-lwt-unix"
+  "httpaf"
+  "httpaf-lwt-unix"
   "alcotest" {with-test}
   "alcotest-lwt" {with-test}
 ]
